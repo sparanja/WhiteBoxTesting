@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.java.AlgoTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2018-10-22T05:31:49" hostname="LAPTOP-5ALPSF8F" time="0.011">
+  <properties/>
+  <testcase name="IfSortingWorksForSingleElement" classname="test.java.AlgoTest" time="0.007"/>
+  <testcase name="IfSortingWorksForTwoElements" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="IfSortingWorksForNullArray" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="IfSortingWorksForNegativeNumbers" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="IfSortingWorksForBothPositiveAndNegative" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="IfSortingWorksWithDuplicates" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="IfArrayisSorted" classname="test.java.AlgoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
